@@ -1,5 +1,5 @@
 
-## Fitxers creats
+## Resum de l'activitat
 
 ### 1. Classes del domini (Model)
 - **VisitaMedica.java**: Entitat amb les dades de la visita (idVisita, nomPacient, nomMetge, data, diagnòstic)
