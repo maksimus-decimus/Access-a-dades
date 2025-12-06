@@ -1,0 +1,15 @@
+[
+  {
+    "idVisita": 23,
+    "nomPacient": "Biel",
+    "nomMetge": "Maxi",
+    "data": "2024-06-27",
+    "diagnostic": "Fifa",
+    "nomPacientMD5": "32f27b7ba6b8be7fa8597306afc7cdd9",
+    "nomPacientSHA256": "284c96d72fc064125b544db8ebedcf6570c547f528f62578a9de4dba0e7dd33f",
+    "diagnosticMD5": "ac044908c19d1238e1a2c8ea30cb1b85",
+    "diagnosticSHA256": "570410360c8a37eb6b171a83a7150f6533fd2207dc3d9901ad4cf490b39ad1ad",
+    "nomPacientAES": "FFc5qtUIIoVoo9emlZDI5A\u003d\u003d",
+    "diagnosticAES": "iw0G6n5XhiGOrQ3gIZNFsw\u003d\u003d"
+  }
+]
